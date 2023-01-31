@@ -49,6 +49,13 @@ dependencies:
   - sphinx_rtd_theme
   - tqdm
   - xarray
-  
+  - parcels
+  - bottleneck
+  - jupyterlab
+  - cartopy
+  - cmocean
+  - ffmpeg
+  - pytest
+
   - pip:
     - angles
