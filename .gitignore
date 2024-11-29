@@ -139,3 +139,9 @@ cython_debug/
 
 # Ignore results directory
 results/
+
+# Ignore common file types of my results in all sub-directories
+**.zarr
+**.nc
+**.gif
+**.png
