@@ -21,22 +21,28 @@ dependencies:
   - arrow
   - bottleneck
   - cliff
+  - cartopy
   - cmocean
   - coverage
   - dask
   - f90nml
+  - ffmpeg
   - gsw
   - ipdb
   - ipython
   - jupyterlab
   - lxml
   - matplotlib
+  - mocsy
   - nbsphinx
   - netCDF4
   - numpy
   - openpyxl
   - pandas
+  - parcels
   - pip
+  - pillow
+  - pyproj
   - pytest
   - python=3
   - pytz
@@ -44,19 +50,13 @@ dependencies:
   - pyyaml
   - requests
   - retrying
+  - seaborn
   - scipy
+  - shapely
   - sphinx
   - sphinx_rtd_theme
   - tqdm
   - xarray
-  - parcels
-  - bottleneck
-  - jupyterlab
-  - cartopy
-  - cmocean
-  - ffmpeg
-  - pytest
-  - seaborn
 
   - pip:
     - angles
